@@ -1,0 +1,12 @@
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.exe
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.deps.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.runtimeconfig.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.runtimeconfig.dev.json
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\bin\Debug\netcoreapp3.1\DictionariesAndHashmaps.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.AssemblyInfoInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.AssemblyInfo.cs
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.dll
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.pdb
+C:\Users\EmmanuelCastillodeCa\Desktop\Assestments\HackerRankAssessments\DictionariesAndHashmaps\obj\Debug\netcoreapp3.1\DictionariesAndHashmaps.genruntimeconfig.cache
